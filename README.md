@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋 I'm **Joud Alshaikhi**
-### 🖧 Network Systems Administration • 🖥 Servers • 🔐 Cybersecurity • 🐧 Linux
+### 🖧 Network Systems Administration 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" />
 
