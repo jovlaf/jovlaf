@@ -109,27 +109,6 @@ and study environmental patterns of bird sounds.
 - PowerShell Automation  
 - Network Monitoring  
 
----
-
-# ⚡ Fun Facts
-- Ping is my love language 🖧💙  
-- I love breaking systems just to fix them again 😄  
-- Linux is my comfort zone 🐧  
-
----
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
-
-<details>
-  <summary>More Stats 🔍</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
 
 ---
 
