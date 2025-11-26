@@ -27,7 +27,7 @@ strengthen my experience in networking, servers, cybersecurity, and contribute e
 **Major:** Network Systems Administration – Department of Computer & Information Technology  
 **GPA:** 4.89 / 5  
 **Academic Level:** Sixth Level (Cooperative Training)  
-**Expected Graduation:** 1446H (2025)
+**Expected Graduation:** 1446H (2026)
 
 ---
 
